@@ -1,0 +1,28 @@
+# Contact Management System (MERN Stack)  
+
+A full-stack **Contact Management System** built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application enables users to efficiently manage and organize their contacts with features like adding, editing, deleting, and searching.  
+
+## Features  
+- **Add Contacts:** Add new contact information with ease.  
+- **Update Contacts:** Modify details of existing contacts.  
+- **Search Contacts:** Find contacts quickly using a search bar.  
+- **Delete Contacts:** Remove outdated or unwanted contacts.  
+- **Responsive UI:** Clean and intuitive interface built with React.js.  
+
+## Technologies Used  
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+
+## Installation and Setup  
+
+### Prerequisites  
+Ensure you have the following installed:  
+- Node.js  
+- MongoDB  
+
+### Steps to Run the Project  
+1. **Clone the Repository**  
+   ```bash  
+   git clone <repository-url>  
+   cd contact-management-system  
